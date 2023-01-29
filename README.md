@@ -48,4 +48,4 @@ This repository is licensed under the MIT License.
 If you find this repository useful, please consider starring us on GitHub. Your support helps us continue to maintain and improve this project.
 
 ## Credits
-- `ChatGPT`: thanks to the ChatGPT for this amazing README.md file
+- `ChatGPT`: thanks to ChatGPT for this amazing README.md file
